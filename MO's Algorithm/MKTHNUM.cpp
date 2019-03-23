@@ -40,7 +40,7 @@ int main() {
 	int currentl = 1, currentr = 0;
 	for (int i = 0; i < m; i++) {
 
-	      while (currentl > q[i].l) {
+	while (currentl > q[i].l) {
             currentl--;
             st.insert(a[currentl]);
         }
