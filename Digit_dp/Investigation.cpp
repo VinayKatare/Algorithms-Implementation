@@ -1,6 +1,6 @@
 //https://vjudge.net/problem/LightOJ-1068
 
-/// How many numbers x are there in the range a to b, where the digit d occurs exactly k times in x?
+/// How many numbers x are there in the range a to b, where the x and sum of digits of x is divisible K(given) ?
 
 #include <bits/stdc++.h>
 using namespace std;
